@@ -1,0 +1,18 @@
+{
+  "pulse_CSTR": {
+    "t_mean_s": 431.26689374793983,
+    "variance_s2": 146735.0628503242
+  },
+  "series_LFR_CSTR_theory": {
+    "tau_L_from_step_LFR_s": 359.4759698899824,
+    "tau_C_from_pulse_CSTR_s": 431.26689374793983,
+    "RMSE_Fexp_vs_Ftheo": 0.10348576770637445
+  },
+  "step_LFR": {
+    "t_mean_s": 359.4759698899824,
+    "RMSE_vs_theory": 0.05205230363958946
+  },
+  "step_LFR+CSTR": {
+    "t_mean_s": 620.1570166830227
+  }
+}
